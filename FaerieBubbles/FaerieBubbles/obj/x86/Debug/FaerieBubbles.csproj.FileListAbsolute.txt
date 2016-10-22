@@ -1,0 +1,9 @@
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\bin\Debug\FaerieBubbles.exe
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\bin\Debug\FaerieBubbles.pdb
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\obj\x86\Debug\FaerieBubbles.Properties.Resources.resources
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\obj\x86\Debug\FaerieBubbles.exe
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\obj\x86\Debug\FaerieBubbles.pdb
+c:\users\kathy\documents\visual studio 2010\Projects\FaerieBubbles\FaerieBubbles\obj\x86\Debug\FaerieBubbles.FaerieBubbles.resources
